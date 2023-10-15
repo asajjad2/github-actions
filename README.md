@@ -1,2 +1,2 @@
 # Github-actions
-demo repository for understanding git, github and actions.
+demo repository for tinkering around with git, github and actions.
